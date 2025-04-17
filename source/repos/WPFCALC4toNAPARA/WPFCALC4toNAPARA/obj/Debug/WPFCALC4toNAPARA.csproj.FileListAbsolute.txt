@@ -1,0 +1,15 @@
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\bin\Debug\WPFCALC4toNAPARA.exe.config
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\bin\Debug\WPFCALC4toNAPARA.exe
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\bin\Debug\WPFCALC4toNAPARA.pdb
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.csproj.AssemblyReference.cache
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\MainWindow.g.cs
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\App.g.cs
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA_MarkupCompile.cache
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA_MarkupCompile.lref
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\MainWindow.baml
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.g.resources
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.Properties.Resources.resources
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.csproj.GenerateResource.cache
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.exe
+C:\Users\z\source\repos\WPFCALC4toNAPARA\WPFCALC4toNAPARA\obj\Debug\WPFCALC4toNAPARA.pdb
